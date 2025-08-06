@@ -1,7 +1,7 @@
 # 🧠 Algorithm Journey – LeetCode Daily Progress 🚀
 
 Welcome to my **Algorithm Journey**!  
-This repository is a daily log of my commitment to solving problems on [LeetCode](https://leetcode.com/) as I strengthen my **DSA (Data Structures & Algorithms)** and **problem-solving** skills.
+This repository is a daily log of my commitment to solving problems on [LeetCode](https://leetcode.com/u/Amanjha112113/) as I strengthen my **DSA (Data Structures & Algorithms)** and **problem-solving** skills.
 
 ---
 
